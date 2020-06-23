@@ -21,7 +21,7 @@ a {
 /* Ketik code Anda dibawah */
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 90px 0 50px 0;
   background-image: url(Background.png);
   background-size: cover;
   color: #302a23;
@@ -90,7 +90,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: rgba(59, 37, 28, 0.9);
   position: fixed;
   top: 0;
   z-index: 10;
