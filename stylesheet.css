@@ -24,7 +24,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(background.png);
   background-size: cover;
-  color: #232224;
+  color: #302a23;
   text-align: center;
  
 }
@@ -171,7 +171,7 @@ header {
 
 
 .message {
-  background-color: #ca5db6;
+  background-color: #302a23;
   padding: 15px 40px;
   cursor: pointer;
   box-shadow: 0px 7px #1a7940;
@@ -186,7 +186,7 @@ footer img {
 }
 
 footer img p {
-  color:#aeb5ae;
+  color:#302a23;
   font-size: 15px;
 }
 
