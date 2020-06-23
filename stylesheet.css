@@ -22,10 +22,10 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(backgroundoke.jpeg);
+  background-image: url(double-bubble-dark.png);
   background-size: cover;
   color: white;
-  text-align: left;
+  text-align: center;
 }
 
 .container {
@@ -76,6 +76,10 @@ a {
 
 .btn:hover {
   opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
 }
 
 header {
