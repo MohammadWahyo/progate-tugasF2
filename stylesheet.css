@@ -133,8 +133,8 @@ header {
 }
 
 .lesson-wrapper {
-  background-color: #ecebf0;
-  padding-bottom: 80px;
+  background-color: #d1c9a9;
+  padding-bottom: 60px;
   text-align: center;
   height: 500px;
   
@@ -142,7 +142,7 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 30%;
 }
 .lesson-icon {
   position: relative;
@@ -152,7 +152,7 @@ header {
   position: absolute;
   top: 90px;
   width: 100%;
-  color: #e3e2c8;
+  color: #bfbe9f;
 }
 
 .txt-contents {
@@ -160,7 +160,7 @@ header {
   display: inline-block;
   margin-top: 20px;
   font-size: 18px;
-  color: #aeb5af;
+  color: #aba89f;
 }
 
 .message-wrapper {
